@@ -22,6 +22,17 @@
                 }
             ]
         },
+		{
+            "Plat": "RandomAcct",
+            "serverGroup": "Release",
+            "Channel": "300",
+            "BigZoneList": [
+                {
+                    "Key":"AA",
+                    "Value":"http://138.128.222.8:8181"
+                }
+            ]
+        },
         {
             "Plat": "Google",
             "serverGroup": "Test",
