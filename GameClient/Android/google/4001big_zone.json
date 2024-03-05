@@ -1,0 +1,92 @@
+{
+    "ServerList": [
+        {
+            "Plat": "Manual",
+            "serverGroup": "Test",
+            "Channel": "2000",
+            "BigZoneList": [
+                {
+                    "Key":"AA",
+                    "Value":"http://138.128.222.8:8181"
+                }
+            ]
+        },
+        {
+            "Plat": "RandomAcct",
+            "serverGroup": "Test",
+            "Channel": "2000",
+            "BigZoneList": [
+                {
+                    "Key":"AA",
+                    "Value":"http://138.128.222.8:8181"
+                }
+            ]
+        },
+        {
+            "Plat": "Google",
+            "serverGroup": "Test",
+            "Channel": "2001",
+            "BigZoneList": [
+                {
+                    "Key":"AA",
+                    "Value":"http://138.128.222.8:8181"
+                }
+            ]
+        },
+        {
+            "Plat": "Google",
+            "serverGroup": "Checking",
+            "Channel": "5001",
+            "BigZoneList": [
+                {
+                    "Key":"AA",
+                    "Value":"http://138.128.222.8:8181"
+                }
+            ]
+        },
+        {
+            "Plat": "Google",
+            "serverGroup": "Release",
+            "Channel": "4001",
+            "BigZoneList": [
+                {
+                    "Key":"AA",
+                    "Value":"http://138.128.222.8:8181"
+                }
+            ]
+        },
+        {
+            "Plat": "Facebook",
+            "serverGroup": "Test",
+            "Channel": "2002",
+            "BigZoneList": [
+                {
+                    "Key":"AA",
+                    "Value":"http://138.128.222.8:8181"
+                }
+            ]
+        },
+        {
+            "Plat": "Facebook",
+            "serverGroup": "Checking",
+            "Channel": "5002",
+            "BigZoneList": [
+                {
+                    "Key":"AA",
+                    "Value":"http://138.128.222.8:8181"
+                }
+            ]
+        },
+        {
+            "Plat": "Facebook",
+            "serverGroup": "Release",
+            "Channel": "4002",
+            "BigZoneList": [
+                {
+                    "Key":"AA",
+                    "Value":"http://138.128.222.8:8181"
+                }
+            ]
+        }
+    ]
+}
