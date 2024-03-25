@@ -8,7 +8,7 @@
         {
             "app": "default",
             "serverGroup": "Release",
-            "openedSDK": "-1,1,2",
+            "openedSDK": "-1,1",
             "dynamicChannel": "",
             "serverList": [
                 {
@@ -28,7 +28,7 @@
         {
             "app": "1.0.999",
             "serverGroup": "Test",
-            "openedSDK": "-1,1,2",
+            "openedSDK": "-1,1",
             "dynamicChannel": "",
             "serverList": [
                 {
@@ -48,7 +48,7 @@
         {
             "app": "1.0.998",
             "serverGroup": "Release",
-            "openedSDK": "1,2",
+            "openedSDK": "1",
             "dynamicChannel": "",
             "serverList": [
                 {
@@ -88,7 +88,7 @@
         {
             "app": "1.0.993",
             "serverGroup": "Test",
-            "openedSDK": "1,2",
+            "openedSDK": "1",
             "dynamicChannel": "",
             "serverList": [
                 {
