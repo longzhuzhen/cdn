@@ -25,7 +25,7 @@
 		{
             "Plat": "RandomAcct",
             "serverGroup": "Release",
-            "Channel": "300",
+            "Channel": "4003",
             "BigZoneList": [
                 {
                     "Key":"AA",
