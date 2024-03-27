@@ -8,18 +8,18 @@
         {
             "app": "default",
             "serverGroup": "Release",
-            "openedSDK": "-1,1",
+            "openedSDK": "1",
             "dynamicChannel": "",
             "serverList": [
                 {
                     "server": "0",					
-                    "resversion": "1.0.26",
+                    "resversion": "1.0.27",
                     "cdnversion": "?v=1",
                     "resfloder": "20240325"
                 },
                 {
                     "server": "1",
-                    "resversion": "1.0.26",
+                    "resversion": "1.0.27",
                     "cdnversion": "?v=1",
                     "resfloder": "20240325"
                 }
