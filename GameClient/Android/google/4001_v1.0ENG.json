@@ -13,13 +13,13 @@
             "serverList": [
                 {
                     "server": "0",					
-                    "resversion": "1.0.27",
+                    "resversion": "1.0.28",
                     "cdnversion": "?v=1",
                     "resfloder": "20240325"
                 },
                 {
                     "server": "1",
-                    "resversion": "1.0.27",
+                    "resversion": "1.0.28",
                     "cdnversion": "?v=1",
                     "resfloder": "20240325"
                 }
