@@ -1,0 +1,129 @@
+{
+    "loginURL": "https://cdn-7wn.pages.dev/GameClient/IOS/google/4001big_zone.json",
+    "accountURL": "https://sp-open-api.hklongzhuo.com/",
+    "resURL": "https://cdn-7wn.pages.dev/IOS",
+    "payURL": "https://sp-open-api.hklongzhuo.com",
+    "noticeURL": "https://sp-open-api.hklongzhuo.com/",
+    "versionList": [
+        {
+            "app": "default",
+            "serverGroup": "Test",
+            "openedSDK": "4,5,6",
+            "dynamicChannel": "",
+            "serverList": [
+                {
+                    "server": "0",
+                    "resversion": "1.0.57",
+                    "cdnversion": "?v=12",
+                    "resfloder": "testIosSDKENG"
+                },
+                {
+                    "server": "1",
+                    "resversion": "1.0.57",
+                    "cdnversion": "?v=12",
+                    "resfloder": "testIosSDKENG"
+                }
+            ]
+        },
+        {
+            "app": "1.0.999",
+            "serverGroup": "Test",
+            "openedSDK": "-1,4,5,6",
+            "dynamicChannel": "",
+            "serverList": [
+                {
+                    "server": "0",
+                    "resversion": "1.0.62",
+                    "cdnversion": "?v=16",
+                    "resfloder": "20240329"
+                },
+                {
+                    "server": "1",
+                    "resversion": "1.0.62",
+                    "cdnversion": "?v=16",
+                    "resfloder": "20240329"
+                }
+            ]
+        },
+        {
+            "app": "1.0.998",
+            "serverGroup": "Release",
+            "openedSDK": "1,2",
+            "dynamicChannel": "",
+            "serverList": [
+                {
+                    "server": "0",
+                    "resversion": "1.0.4",
+                    "cdnversion": "?v=51",
+                    "resfloder": "testAndroidJhenWenZhuENG"
+                },
+                {
+                    "server": "1",
+                    "resversion": "1.0.4",
+                    "cdnversion": "?v=51",
+                    "resfloder": "testAndroidJhenWenZhuENG"
+                }
+            ]
+        },
+        {
+            "app": "1.0.990",
+            "serverGroup": "Test",
+            "openedSDK": "-1",
+            "dynamicChannel": "",
+            "serverList": [
+                {
+                    "server": "0",
+                    "resversion": "1.0.33",
+                    "cdnversion": "?v=25",
+                    "resfloder": "testDevelopENG"
+                },
+                {
+                    "server": "1",
+                    "resversion": "1.0.33",
+                    "cdnversion": "?v=25",
+                    "resfloder": "testDevelopENG"
+                }
+            ]
+        },
+        {
+            "app": "1.0.993",
+            "serverGroup": "Test",
+            "openedSDK": "1,2",
+            "dynamicChannel": "",
+            "serverList": [
+                {
+                    "server": "0",
+                    "resversion": "1.0.21",
+                    "cdnversion": "?v=8",
+                    "resfloder": "testAndroidSDKENG"
+                },
+                {
+                    "server": "1",
+                    "resversion": "1.0.21",
+                    "cdnversion": "?v=8",
+                    "resfloder": "testAndroidSDKENG"
+                }
+            ]
+        },
+        {
+            "app": "1.0.980",
+            "serverGroup": "Test",
+            "openedSDK": "4,5,6",
+            "dynamicChannel": "",
+            "serverList": [
+                {
+                    "server": "0",
+                    "resversion": "1.0.61",
+                    "cdnversion": "?v=5",
+                    "resfloder": "2024011102ENG"
+                },
+                {
+                    "server": "1",
+                    "resversion": "1.0.61",
+                    "cdnversion": "?v=5",
+                    "resfloder": "2024011102ENG"
+                }
+            ]
+        }
+    ]
+}
