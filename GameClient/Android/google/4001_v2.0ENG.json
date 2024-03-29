@@ -1,0 +1,109 @@
+{
+    "loginURL": "https://cdn-7wn.pages.dev/GameClient/Android/google/4001big_zone.json",
+    "accountURL": "https://ckekkaye.pages.dev/",
+    "resURL": "https://cdn-7wn.pages.dev/Android",
+    "payURL": "https://ckekkaye.pages.dev/",
+    "noticeURL": "https://ckekkaye.pages.dev/",
+    "versionList": [
+        {
+            "app": "default",
+            "serverGroup": "Release",
+            "openedSDK": "1",
+            "dynamicChannel": "",
+            "serverList": [
+                {
+                    "server": "0",					
+                    "resversion": "1.0.28",
+                    "cdnversion": "?v=1",
+                    "resfloder": "20240325"
+                },
+                {
+                    "server": "1",
+                    "resversion": "1.0.28",
+                    "cdnversion": "?v=1",
+                    "resfloder": "20240325"
+                }
+            ]
+        },
+        {
+            "app": "1.0.999",
+            "serverGroup": "Test",
+            "openedSDK": "-1,1",
+            "dynamicChannel": "",
+            "serverList": [
+                {
+                    "server": "0",
+                    "resversion": "1.0.63",
+                    "cdnversion": "?v=1",
+                    "resfloder": "20240305"
+                },
+                {
+                    "server": "1",
+                    "resversion": "1.0.63",
+                    "cdnversion": "?v=1",
+                    "resfloder": "20240305"
+                }
+            ]
+        },
+        {
+            "app": "1.0.998",
+            "serverGroup": "Release",
+            "openedSDK": "1",
+            "dynamicChannel": "",
+            "serverList": [
+                {
+                    "server": "0",
+                    "resversion": "1.0.4",
+                    "cdnversion": "?v=51",
+                    "resfloder": "20240305"
+                },
+                {
+                    "server": "1",
+                    "resversion": "1.0.4",
+                    "cdnversion": "?v=51",
+                    "resfloder": "20240305"
+                }
+            ]
+        },
+        {
+            "app": "1.0.990",
+            "serverGroup": "Test",
+            "openedSDK": "-1",
+            "dynamicChannel": "",
+            "serverList": [
+                {
+                    "server": "0",
+                    "resversion": "1.0.33",
+                    "cdnversion": "?v=25",
+                    "resfloder": "20240305"
+                },
+                {
+                    "server": "1",
+                    "resversion": "1.0.33",
+                    "cdnversion": "?v=25",
+                    "resfloder": "20240305"
+                }
+            ]
+        },
+        {
+            "app": "1.0.993",
+            "serverGroup": "Test",
+            "openedSDK": "1",
+            "dynamicChannel": "",
+            "serverList": [
+                {
+                    "server": "0",
+                    "resversion": "1.0.54",
+                    "cdnversion": "?v=9",
+                    "resfloder": "20240305"
+                },
+                {
+                    "server": "1",
+                    "resversion": "1.0.54",
+                    "cdnversion": "?v=9",
+                    "resfloder": "20240305"
+                }
+            ]
+        }
+    ]
+}
