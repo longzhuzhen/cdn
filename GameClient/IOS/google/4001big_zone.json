@@ -6,7 +6,7 @@
             "Channel": "2000",
             "BigZoneList": [
                 {
-                    "Key":"BB",
+                    "Key":"AA",
                     "Value":"http://138.128.222.8:8181"
                 }
             ]
