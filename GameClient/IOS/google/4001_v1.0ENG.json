@@ -8,7 +8,7 @@
         {
             "app": "default",
             "serverGroup": "Test",
-            "openedSDK": "4,5,6",
+            "openedSDK": "-1,4,5,6",
             "dynamicChannel": "",
             "serverList": [
                 {
