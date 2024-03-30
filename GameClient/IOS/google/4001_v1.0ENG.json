@@ -27,8 +27,8 @@
         },
         {
             "app": "1.0.999",
-            "serverGroup": "Test",
-            "openedSDK": "-1,4,5,6",
+            "serverGroup": "Release",
+            "openedSDK": "4,5,6",
             "dynamicChannel": "",
             "serverList": [
                 {
