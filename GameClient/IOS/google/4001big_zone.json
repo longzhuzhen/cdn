@@ -3,7 +3,7 @@
         {
             "Plat": "Manual",
             "serverGroup": "Test",
-            "Channel": "2000",
+            "Channel": "4003",
             "BigZoneList": [
                 {
                     "Key":"AA",
